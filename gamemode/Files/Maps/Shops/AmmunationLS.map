@@ -1,0 +1,6 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (Gen_doorEXT12) (1)" radius="3.4983802" interior="-1" model="1533" lodModel="0" posX="1369.3984" posY="-1278.2812" posZ="12.53906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <removeWorldObject id="removeWorldObject (Gen_doorEXT16) (1)" radius="3.4595208" interior="-1" model="1537" lodModel="0" posX="1369.3984" posY="-1281.2969" posZ="12.53906" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (ammu_twofloor) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="18049" scale="1" doublesided="false" collisions="true" posX="1378.61" posY="-1272.99" posZ="17.32" rotX="0" rotY="0" rotZ="2"></object>
+    <object id="object (Gen_doorINT04) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1502" scale="1" doublesided="false" collisions="true" posX="1370.1" posY="-1279.1" posZ="12.6" rotX="0" rotY="0" rotZ="270"></object>
+</map>

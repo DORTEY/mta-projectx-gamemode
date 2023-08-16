@@ -1,0 +1,4 @@
+<map edf:definitions="editor_main">
+    <object id="object (gnhtelgrnd_lvs) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="8661" scale="1" doublesided="false" collisions="true" posX="3360.2" posY="-2112.3" posZ="1363.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (gnhtelgrnd_lvs) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="8661" scale="1" doublesided="false" collisions="true" posX="3360.1699" posY="-2092.3201" posZ="1363.7" rotX="0" rotY="0" rotZ="0"></object>
+</map>

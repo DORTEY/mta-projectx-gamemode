@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <object id="object (CJ_PHONE_KIOSK) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="1368" posY="-1151.4" posZ="23.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PHONE_KIOSK) (2)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="1318.9" posY="-1159.8" posZ="23.7" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PHONE_KIOSK) (3)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="1818.7" posY="-1271.8" posZ="13.5" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PHONE_KIOSK) (4)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="2114.7" posY="-1719.6" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+    <object id="object (CJ_PHONE_KIOSK) (5)" breakable="true" interior="0" alpha="255" dimension="0" model="1363" scale="1" doublesided="false" collisions="true" posX="1901.9" posY="-1944.3" posZ="13.4" rotX="0" rotY="0" rotZ="0"></object>
+</map>

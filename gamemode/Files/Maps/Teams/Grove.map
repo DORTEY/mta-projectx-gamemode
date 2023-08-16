@@ -1,0 +1,7 @@
+<map edf:definitions="editor_main">
+    <removeWorldObject id="removeWorldObject (Gen_doorEXT03) (1)" radius="3.4582796" interior="-1" model="1498" lodModel="0" posX="2496.1563" posY="-1691.5625" posZ="13.75781" rotX="0" rotY="0" rotZ="0"></removeWorldObject>
+    <object id="object (MED_OFFICE_UNIT_1) (1)" breakable="true" interior="0" alpha="255" dimension="0" model="2162" scale="1" doublesided="true" collisions="true" posX="2493.3" posY="-1700.5" posZ="17.4" rotX="0" rotY="0" rotZ="270"></object>
+    <object id="object (wglasssmash) (1)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="2489" posY="-1701.4" posZ="20.5" rotX="67.5" rotY="270" rotZ="90"></object>
+    <object id="object (wglasssmash) (2)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="2489" posY="-1704.1" posZ="20.5" rotX="67.5" rotY="270" rotZ="90"></object>
+    <object id="object (wglasssmash) (3)" breakable="false" interior="0" alpha="255" dimension="0" model="1649" scale="1" doublesided="true" collisions="true" posX="2489" posY="-1707.4" posZ="20.5" rotX="67.5" rotY="270" rotZ="90"></object>
+</map>
