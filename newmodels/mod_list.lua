@@ -100,14 +100,6 @@ modList={
 		
 		{id=185000,base_id=286,path="models/peds/male/team/",name="Male FIB 1",metaDownloadFalse=true},
 		{id=185001,base_id=286,path="models/peds/male/team/",name="Male FIB 2",metaDownloadFalse=true},
-		
-		
-		
-		
-		
-		
-		
-		{id=200000,base_id=25,path="models/peds/admin/",name="Lunny",metaDownloadFalse=true},
 	},
 	
 	vehicle={
