@@ -1,14 +1,14 @@
-local WEBHOOKS={
-	[1]="https://discord.com/api/webhooks/1121706509106151425/fOfbG9e1gPUTOyBXm78hj0QtiUfPFAWJgMumWAkdeqhoR380OfT7rWtpB7Eqgwc_gvr1",--chat (local)
-	[2]="https://discord.com/api/webhooks/1121706957603090522/yDoROti65sAWAmLzSYzbrTa0aIwufk5vWXuSBCD0byuL_-6YwfJG57ICcP1OFrby0BTX",--chat (team)
-	[3]="https://discord.com/api/webhooks/1121702357529526364/xa8k6ioYKEKfBbgjM-xNkuBRMydnoNTwlLMDKA69wtEX_YfYtMggYEtgqHEhHxFlQ-ED",--chat ad
-	[4]="https://discord.com/api/webhooks/1123982144444833912/BcVUYMRwDBT6Sv7sP_Dh9sasLl2ZIVb0A4BzQqwgeZC4fARA91JS4fh6BF2ga3GAUM0c",--commands used
-	[5]="https://discord.com/api/webhooks/1124000067951538307/Peiuo5MBb86zaC-rlrIxO0_rhEthLz2Kep57HrW08ZKFh8Ry2380bmyQPzYzQG0sSHMW",--anticheat
-	[6]="https://discord.com/api/webhooks/1124660270778814475/iGQ8zbCCyXDn5VvsFW74cX3nnGvbfZ6BPufqLawsdEpOUCi4B6TglLsiXW6pA8gAh3NB",--chat(global)
-	[7]="https://discord.com/api/webhooks/1140135684351479918/l-wV77letTBsqzuUPp4YbIQL0xdyV6puQjzsZFKQorphg41RIyR7W97wmmsrdOhYrrxo",--cases
-	[8]="https://discord.com/api/webhooks/1140137001874620429/HRYZm6S2GCGSEyKXecT4XTvEJsStNk-yuK_HcYUQP03xBZA62UbU17AP9qp5yXqTly9Q",--robs
+local WEBHOOKS={--discord webhook urls
+	[1]="",--chat (local)
+	[2]="",--chat (team)
+	[3]="",--chat ad
+	[4]="",--commands used
+	[5]="",--anticheat
+	[6]="",--chat(global)
+	[7]="",--cases
+	[8]="",--robs
 	
-	[20]="https://discord.com/api/webhooks/1140133955719405652/_I4MFcMx1v4d8fOCOCbBghj0OeuVPKP69nRcgaqonEgg7aqS73nRVTpmNnCTVBpyGa7K",--daily restart
+	[20]="",--daily restart
 };
 
 function sendDiscordMessage(typ,msg)
