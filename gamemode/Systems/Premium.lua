@@ -1,4 +1,3 @@
---addCommandHandler("testo",function(player,cmd)
 addCommandHandler("jp",function(player,cmd)
 	if(isElement(player)and isLoggedin(player)and(not client or client==player))then
 		if(not(getElementData(player,"Player->Data->Premium")))then

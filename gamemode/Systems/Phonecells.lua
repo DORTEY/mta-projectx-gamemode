@@ -1,5 +1,5 @@
 local PHONECELL_STATUS=nil;
-local POSITIONS={
+local POSITIONS={--x,y,z
 	{1368,-1151.4,22.7},
 	{1318.9,-1159.8,22.7},
 	{1818.7,-1271.8,12.5},
