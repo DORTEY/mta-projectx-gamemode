@@ -1,11 +1,4 @@
 local Table={--x,y,z,iconID,iconSIze,colorR,colorG,colorB,range,tooltip
-	--{1556.9,-1675.6,16.2,"blips/SAPD.png",32,tocolor(255,255,255)},--LSPD
-	--{1155.4,-1203.4,19.5,"blips/FIB.png",32,tocolor(255,255,255)},--FIB
-	--{2034.1,-1402.2,16,"blips/SAMD.png",32,tocolor(255,255,255)},--Hospital
-	--{2494.8,-1683.3,13.3,"blips/GroveStreet.png",32,tocolor(255,255,255)},--Grove
-	--{2233.1,-1159.8,25.9,"blips/RollinBallas.png",32,tocolor(255,255,255)},--Ballas
-	
-	
 	{115.1,2959.9,72.1,4,20, 255,255,255, 9999,"North"},
 	
 	--robs
